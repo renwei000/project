@@ -92,3 +92,5 @@ if __name__ == '__main__':
     train_decisiontree(X_train, Y_train)
     evaluate_decisiontree(model_filepath, X_test, Y_test)
     predict_decisiontree(model_filepath)
+    #增加一个测试句子可以吗
+    #删除一个测试句子可以吗
